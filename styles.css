@@ -1,0 +1,28 @@
+.tooltip {width: 320px;
+  padding: 10px;
+  border: 0px solid gray;
+  margin: 0;
+  text-align: justify;
+  text-justify: inter-word;
+  background-color: #3c99dc;
+  font-family: cursive;
+  font-size: 20px;
+  background: blue;
+}
+
+.tooltip_div {
+    width: 320px;
+    padding: 10px;
+    border: 0px solid gray;
+    margin: 0;
+    text-align: justify;
+    text-justify: inter-word;
+    background-color: #3c99dc;
+    font-family: cursive;
+    font-size: 20px;
+  }
+  .tooltip_li{
+   list-style-position:inside;
+   border: 0px solid black;
+  
+  }
